@@ -14,7 +14,6 @@ body {
 .movie-single {
   width: 250px;
   height: 170px;
-  display: flex;
+  display: inline-flex;
   color: white;
-  flex-wrap: wrap;
 }
